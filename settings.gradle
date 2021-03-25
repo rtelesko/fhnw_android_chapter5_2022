@@ -1,0 +1,6 @@
+include ':LotteryFiveTips'
+include ':LotteryCosts'
+include ':LinearLayoutExample'
+include ':Duck'
+include ':app'
+rootProject.name = "Chapter5"

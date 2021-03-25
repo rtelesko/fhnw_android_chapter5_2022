@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lottery FiveTips</string>
+    <string name="generateNumbers">Generate</string>
+    <string name="clearNumbers">Clear</string>
+</resources>

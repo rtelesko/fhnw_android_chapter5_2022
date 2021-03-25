@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lottery Costs</string>
+    <string name="radio_swiss">Swiss Lottery</string>
+    <string name="radio_euro">Euro Millions</string>
+    <string name="calculate">Calculate Costs</string>
+    <string name="tips">Number of tips</string>
+    <string-array name="lottery_tips">
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+</resources>
